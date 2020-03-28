@@ -28,7 +28,7 @@ After you ensured that you have all required dependencies installed, go ahead an
 
 Decompress the file, cd into the "League-X" directory, and run the "DisplayImage.py" script, you should be able to see something like this:
 
-![Demo Image](demo.gif)
+![Demo Image](gif_demo.gif)
 
 #### Run League-X on live LOL Game
 
