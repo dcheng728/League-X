@@ -36,7 +36,7 @@ Run the "Champ_Select_GUI.py" file in the project's directory.
 
 You will see a GUI like:
 
-![Demo Image](GUI_demo.jpg)
+![Demo Image](GUI_demo.JPG)
 
 Go ahead and pick the five enemy champions by selecting them on the right panel, you can click the position icon to toggle between the champions at each position, you can also filter the champions by type in their name in the upper-right search bar.
 
